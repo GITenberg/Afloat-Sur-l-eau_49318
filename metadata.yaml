@@ -1,4 +1,5 @@
 _repo: Afloat-Sur-l-eau_49318
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Riou, Edouard
@@ -14,6 +15,9 @@ contributor:
     agent_name: Ensor, Laura
     gutenberg_agent_id: '25378'
     url: http://www.gutenberg.org/2009/agents/25378
+covers:
+- cover_type: archival
+  image_path: 49318-h/images/cover_afloat.jpg
 creator:
   author:
     agent_name: Maupassant, Guy de
@@ -26,6 +30,8 @@ creator:
     - http://en.wikipedia.org/wiki/Guy_de_Maupassant
     - http://fr.wikipedia.org/wiki/Guy_de_Maupassant
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49318#Afloat-Sur-l-eau
 gutenberg_issued: '2015-06-29'
 gutenberg_type: Text
 identifiers:
